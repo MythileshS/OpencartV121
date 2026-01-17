@@ -1,0 +1,9 @@
+2025-05-11 05:42:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\Myworkspaces\Seleniumwebdriver\OpencartV121\master.xml"
+2025-05-11 05:42:28 INFO  TC001_AccountRegistrationTest:18 - ****** Starting TC001_AccountRegistrationTest  ********
+2025-05-11 05:42:28 INFO  TC001_AccountRegistrationTest:23 - Clicked on My Account Link
+2025-05-11 05:42:29 INFO  TC001_AccountRegistrationTest:25 - Clicked on register Link
+2025-05-11 05:42:29 INFO  TC001_AccountRegistrationTest:29 - Providing customer details....
+2025-05-11 05:42:32 INFO  TC001_AccountRegistrationTest:46 - Validating expected message...
+2025-05-11 05:42:32 INFO  TC001_AccountRegistrationTest:66 - Finished TC001_AccountRegistrationTest...
+2025-05-11 05:42:50 INFO  TC002_LoginTest:16 - *******Starting TC_002_Login test*******
+2025-05-11 05:42:52 INFO  TC002_LoginTest:43 - *******Finished TC_002_Login test*******
